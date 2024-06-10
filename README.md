@@ -5,3 +5,5 @@ Second line
 line
 
 NEW LINE
+
+LINE 4 WITH NEW CHANGES ON BRANCH
