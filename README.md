@@ -3,3 +3,5 @@ Second line
 
 #HEADING 2
 line
+
+NEW LINE
